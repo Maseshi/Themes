@@ -1,12 +1,8 @@
-<center>
-  <div style="display: inline-flex;">
-    <i style="font-size: 50px;">🎨</i>
-    <i style="font-size: 40px; margin-left: -50px;">🖌️</i>
-  </div>
-  
+<div align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/milky-way_1f30c.png" alt="Microsoft Emoji Milkyway" width="100" />
   <h1>Themes</h1>
   <p>A collection of themes for Windows and other platforms.</p>
-</center>
+</div>
 
 A collection of themes that can be downloaded for <u>free</u> with a variety of formats to choose from, such as **.png**, **.jpg**, **.webp**, etc. Some collections have installers ready to use right away. Please explore the topics according to your operating system.
 
