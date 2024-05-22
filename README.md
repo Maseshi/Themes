@@ -6,9 +6,11 @@
 
 A collection of themes that can be downloaded for <u>free</u> with a variety of formats to choose from, such as **.png**, **.jpg**, **.webp**, etc. Some collections have installers ready to use right away. Please explore the topics according to your operating system.
 
+![Comparison of common display resolutions from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/0c/Vector_Video_Standards8.svg)
+
 > [!IMPORTANT]
 > Some content may be copyrighted. We are not responsible for any copyright conflicts. We are just a publisher of these cool resources.
 
 ## 🪟 Windows
 
-You can download the `.theme` files in each folder and then open them to add and use the theme.
+You can download the `.deskthemedata` files in each folder and then open them to add and use the theme.
